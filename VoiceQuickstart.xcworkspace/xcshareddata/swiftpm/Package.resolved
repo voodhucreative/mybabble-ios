@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "f2616860a41f9d9932da412a8978fec79c06fe24",
+        "version" : "0.1.4"
+      }
+    },
+    {
+      "identity" : "twilio-voice-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twilio/twilio-voice-ios",
+      "state" : {
+        "revision" : "fd94bbd382ac223b0ccc795e8ecc37bf7dc90814",
+        "version" : "6.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
